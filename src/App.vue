@@ -12,7 +12,7 @@ export default {
   
   data() {
     return {
-      message: 'Welcome to my Vue app!'
+   
     };
   }
 };
