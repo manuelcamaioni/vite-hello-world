@@ -3,16 +3,16 @@
 </template>
 
 <script>
-import AppTitle from AppTitle.vue;
+import AppTitle from './components/AppTitle.vue';
 export default {
 
   components:{
-    AppTitle,
+    AppTitle
   },
-  
+
   data() {
     return {
-   
+
     };
   }
 };
